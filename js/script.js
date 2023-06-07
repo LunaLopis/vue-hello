@@ -2,7 +2,8 @@ const {createApp}= Vue
 createApp({
  data() {
     return {
-        message: 'Ciao Vue.js!'
+        message: 'Ciao Vue.js!',
+        image: 'https://picsum.photos/200/300',
     }
  }
   
